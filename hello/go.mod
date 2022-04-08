@@ -3,7 +3,7 @@ module github.com/mrbeck02/GoMattGo/hello
 go 1.18
 
 require (
-	github.com/mrbeck02/GoMattGo/greetings v0.0.0-20220408195757-8898a136bb33
+	github.com/mrbeck02/GoMattGo/greetings v0.0.0-20220408203827-6ea6a0fcf625
 	rsc.io/quote v1.5.2
 )
 
