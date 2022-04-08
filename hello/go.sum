@@ -1,3 +1,5 @@
+github.com/mrbeck02/GoMattGo/greetings v0.0.0-20220408195757-8898a136bb33 h1:ebnfd2/BMk3IHqtpdsnvdku6F4W2x1KvZ8IBeN7jV1s=
+github.com/mrbeck02/GoMattGo/greetings v0.0.0-20220408195757-8898a136bb33/go.mod h1:JdY5hasXYTrSuJcrZpAXzUHZ39in8pxdcNfJMlryJgA=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c h1:qgOY6WgZOaTkIIMiVjBQcw93ERBE4m30iBm00nkL0i8=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 rsc.io/quote v1.5.2 h1:w5fcysjrx7yqtD/aO+QwRjYZOKnaM9Uh2b40tElTs3Y=
