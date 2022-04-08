@@ -12,8 +12,14 @@ func main() {
 	log.SetPrefix("loggy: ")
 	log.SetFlags(0)
 
-	message, err := greetings.Hello("Ladies")
-	fmt.Println(message)
+	message := "Hello"
 
+	message, err := greetings.Hello("Ladies")
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Println(message)
 	fmt.Println(quote.Go())
 }
