@@ -12,8 +12,6 @@ func main() {
 	log.SetPrefix("loggy: ")
 	log.SetFlags(0)
 
-	message := "Hello"
-
 	message, err := greetings.Hello("Ladies")
 
 	if err != nil {
