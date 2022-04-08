@@ -25,8 +25,8 @@ func init() {
 func randomFormat() string {
 	// A slice of message formats.
 	formats := []string{
-		"Hi, %v.  Welcome!",
 		"Great to see you, %v",
+		"Yo, %v.  Welcome!",
 		"Hey %v, what time is it?",
 	}
 
